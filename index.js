@@ -16,7 +16,7 @@ createButton.addEventListener("click", () => addBrand(createInput.value));
 readButton.addEventListener("click", getBrands);
 
 var apiURL =
-  "https://crudcrud.com/api/7d3f80d4512c44a0b08726b83eebf410/pcBrands";
+"https://crudcrud.com/api/df63745a441448f991faedf8a600daa5;"
 
 
 // READ FUNCTION
